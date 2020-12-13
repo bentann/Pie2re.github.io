@@ -9368,3 +9368,25 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+
+    .bottom-menu{
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+margin-bottom: 3rem;
+border-bottom: 1px solid #584a70;
+padding-bottom: 2rem;
+
+}
+
+.bottom-menu div{
+  margin-right: 1rem;
+
+  }
+
+.bottom-menu div a{
+
+  color: white !important;
+  }
