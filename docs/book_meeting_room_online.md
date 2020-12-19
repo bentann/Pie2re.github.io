@@ -3,14 +3,14 @@
 Are you looking for a meeting room in let's say New York? Alone in Manhattan you’ll find more than 1500 meeting rooms listed. To find the most suitable one can be a time-consuming challenge and a simple google search will just overwhelm you with options.  
 In this article we’ll introduce you to the most reliable options in order to help you or your team select meeting rooms in a more efficient way. 
 
-#1 Things to consider 
+# 1. Things to consider 
 
 Most importantly you’ll have to take into account: the size of your meeting. Especially for large meetings it is important to book a venue which gives enough space for the attendees to move around. Most conference centers and many hotels offer spaces for over 50 people whereas coworking spaces don’t often have these capacities. 
 
 A second aspect to consider are the amenities included with the space. You should make sure that all tools you require are available and up to date. 
 Another important aspect is the length of the meeting and the need for catering. If you’re planning a whole day meeting with short breaks it might be more suitable to book a hotel or conference center with a catering possibility. Often hotels are offering a tea and coffee supply throughout the day. 
 
-#2 Search online on a listing site
+# 2. Search online on a listing site
 
 There are several professional listing sites available allowing you to choose the right meeting room corresponding to your needs. 
 
