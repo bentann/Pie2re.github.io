@@ -150,7 +150,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          <source type="video/mp4" src="images/coworkintel_2.mp4"></source>
 </video>
 <script>
-    document.getElementById('vid').play();
+    var vid =  document.getElementById('vid').play()
+    vid.autoplay = false;
+    vid.load();
 </script>
          
        </div>
